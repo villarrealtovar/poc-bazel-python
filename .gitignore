@@ -1,0 +1,6 @@
+bazel-bin/
+bazel-bin
+bazel-out
+bazel-poc-bazel-python
+bazel-testlogs
+projects/
